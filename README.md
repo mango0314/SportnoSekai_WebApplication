@@ -19,7 +19,7 @@ L'obiettivo dell'applicazione è **gestire tornei sportivi** in modo semplice e 
   - Creazione, modifica ed eliminazione di contenuti sportivi
 
 ## ⚙️ Tecnologie utilizzate
-- 🎨 **Frontend:** HTML, CSS → basato su template **Bootstrap**
+- 🎨 **Frontend:** HTML, CSS e Javascript → basato su template **Bootstrap**
 - 💻 **Backend:** Java (Servlet/JSP) → architettura **MVC** con pattern **DAO**
 - 🗄️ **Database:** MySQL
   - Nome database: `torneisportivdb`
