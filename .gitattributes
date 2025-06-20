@@ -1,1 +1,5 @@
 *.java text linguist-language=Java
+*.class linguist-generated
+*.css linguist-vendored
+*.js linguist-vendored
+*.html linguist-vendored
