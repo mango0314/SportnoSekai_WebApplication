@@ -38,9 +38,9 @@ L'obiettivo dell'applicazione è **gestire tornei sportivi** in modo semplice e 
 Crea un database chiamato torneisportivdb
 
 Imposta username e password come:
-Username: root
-Password: root
-5. Avvia il progetto da Eclipse su Tomcat.
+- Username: root
+- Password: root
+4. Avvia il progetto da Eclipse su Tomcat.
 
 ## 🔐 Credenziali di prova
 Amministratore (Admin):
