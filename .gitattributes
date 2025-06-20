@@ -3,6 +3,7 @@
 build/ linguist-vendored
 .settings/ linguist-vendored
 *.css linguist-vendored=CSS
+*.scss linguist-language=SCSS
 *.js linguist-vendored=JavaScript
 *.jsp linguist-vendored=HTML
 *.html linguist-vendored=HTML
